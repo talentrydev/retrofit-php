@@ -1,5 +1,5 @@
 {
-    "name": "tebru/retrofit-php",
+    "name": "talentrydev/retrofit-php",
     "description": "Retrofit for PHP - A type-safe PHP REST client.",
     "require": {
         "php": ">= 7.1",
